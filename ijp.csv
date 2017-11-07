@@ -1,0 +1,18 @@
+JobID,Title,Desc,Skillset,Experience,StartDate,EndDate,Status
+JB001,Florist,Should be Florist having skill sets of  Florist with an experience of  4-8 years.,Florist,4-8,7/11/2017,23/11/2017,Open
+JB002,Wedding Planner,Should be Wedding Planner having skill sets of  Diploma in event Management with an experience of  4-9 years.,Diploma in event Management,4-9,8/11/2017,24/11/2017,Open
+JB003,Caterer,Should be Caterer having skill sets of  Caterer with an experience of  4-10 years.,Caterer,4-10,9/11/2017,25/11/2017,Open
+JB004,Decorators,Should be Decorators having skill sets of  Decorators with an experience of  4-11 years.,Decorators,4-11,10/11/2017,26/11/2017,Open
+JB005,Designers,Should be Designers having skill sets of  Designers with an experience of  4-12 years.,Designers,4-12,11/11/2017,27/11/2017,Open
+JB006,Costume Design,Should be Costume Design having skill sets of  Any Fashion designing course with an experience of  4-13 years.,Any Fashion designing course,4-13,12/11/2017,28/11/2017,Open
+JB007,Photographer,Should be Photographer having skill sets of  Photographer with an experience of  4-14 years.,Photographer,4-14,13/11/2017,29/11/2017,Open
+JB008,DJ,Should be DJ having skill sets of  DJ with an experience of  4-15 years.,DJ,4-15,14/11/2017,30/11/2017,Open
+JB009,MC,Should be MC having skill sets of  MC with an experience of  4-16 years.,MC,4-16,15/11/2017,1/12/2017,Open
+JB010,Light & sound Tech,Should be Light & sound Tech having skill sets of  Light & sound Tech with an experience of  4-17 years.,Light & sound Tech,4-17,16/11/2017,2/12/2017,Open
+JB011,Transport,Should be Transport having skill sets of  Transport with an experience of  4-18 years.,Transport,4-18,17/11/2017,3/12/2017,Open
+JB012,Concierge Managers,Should be Concierge Managers having skill sets of  Diploma in event Management with an experience of  4-19 years.,Diploma in event Management,4-19,18/11/2017,4/12/2017,Open
+JB013,Pandit,Should be Pandit having skill sets of  Pandit/imam/wedding minister with an experience of  4-20 years.,Pandit/imam/wedding minister,4-20,19/11/2017,5/12/2017,Open
+JB014,Musicians,Should be Musicians having skill sets of  dhol/nadaswaram with an experience of  4-21 years.,dhol/nadaswaram,4-21,20/11/2017,6/12/2017,Open
+JB015,Cultural,Should be Cultural having skill sets of  Dancers/Actors/Singers with an experience of  4-22 years.,Dancers/Actors/Singers,4-22,21/11/2017,7/12/2017,Open
+JB016,Tattoo artist,Should be Tattoo artist having skill sets of  Tattoo artist with an experience of  4-23 years.,Tattoo artist,4-23,22/11/2017,8/12/2017,Open
+JB017,Magicians,Should be Magicians having skill sets of  Magicians with an experience of  4-24 years.,Magicians,4-24,23/11/2017,9/12/2017,Open
